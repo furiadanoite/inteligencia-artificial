@@ -46,7 +46,7 @@ const perguntas = [
         {
           texto:
             "quarto de milha"
-          afirmacao: "afirmação",
+           afirmacao: "afirmação",
         },
       ],
     },
