@@ -6,14 +6,14 @@ const textoResultado = document.querySelector(".texto-resultado");
 const perguntas = [
     {
       enunciado:
-        "Como é chamada a defesa de linha do campo?",
+        "Como se chama o esporte que o cavalo pula sobre o obstáculo ?",
       alternativas: [
         {
-          texto: "Zagueiro!",
+          texto: "Cavaleira!",
           afirmacao: "afirmação",
         },
         {
-          texto: "Goleiro!",
+          texto: "tamborzeira!",
           afirmacao: "afirmação",
         },
       ],
@@ -36,31 +36,31 @@ const perguntas = [
     },
     {
       enunciado:
-        "qual a vaca mais leiteira entre as alternativas abaixo?",
+        "qual é o cavalo mais rápido das alternativas abaixo?",
       alternativas: [
         {
           texto:
-            "holandeza.",
+            "manga larga.",
           afirmacao: "afirmação",
         },
         {
           texto:
-            "nelore.",
+            "quarto de milha"
           afirmacao: "afirmação",
         },
       ],
     },
     {
       enunciado:
-        "quantas havan existem no Brasil?",
+        "quantas sala existem no colégio?",
       alternativas: [
         {
           texto:
-            "175.",
+            "17.",
           afirmacao: "afirmação",
         },
         {
-          texto: "207.",
+          texto: "20.",
           afirmacao: "afirmação",
         },
       ],
